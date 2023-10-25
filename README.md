@@ -76,6 +76,8 @@ Fork your friend's repository to create a new repository, and either use the Web
 Make changes to this code. You can do one or more of the following changes:
 As there is a default test case (board) on line 3 of the starter code, add additional boards for the code to run on.
 If there is a bug in your friend's code, fix it.
+
+Link to classmate's repo: https://github.com/Abhsin/Techin_509_week_4_by_Abhishek
 Add docstrings to the functions if they don't exist.
 Add assert statements to ensure the input is in the right format. (Ex. Ensure all the rows of the input board are of the same lengths through assert statements.)  
 After the above changes are made to the local computer or in the Web IDE, push this change to the remote, and make a pull request on GitHub to your friend's repository. Add a review message describing the change you made and why your friend should accept your pull request.
