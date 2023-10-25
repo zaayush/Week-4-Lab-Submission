@@ -45,7 +45,7 @@ for a in modified_board:
 # ....###~~~~~~~~~~~~#..
 # ....#~~~~~~~~~~~~###..
 # ....##############....
-del board
+# Deleted Del Board From here since we are recreating the board below this anyway.
 board = [
     "......................",
     "......##########......",
