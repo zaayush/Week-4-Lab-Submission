@@ -1,4 +1,5 @@
-del board
+#remove the error
+#del board
 board = [
     "......................",
     "......##########......",
@@ -10,7 +11,12 @@ board = [
     "....##############....",
 ]
 
+
+
+
 def flood_fill(input_board, old, new, x, y):
+    '''Function to recursively solve  the flood fill problem'''
+
     def recursive_ff(x, y):
         if (
             x < 0
